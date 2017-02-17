@@ -1,6 +1,6 @@
 requests==2.8.1
 # Bleeding edge Django
-django==1.9.11 # pyup: >=1.9,<1.10
+django==1.9.12 # pyup: >=1.9,<1.10
 
 # Configuration
 django-environ==0.4.0
