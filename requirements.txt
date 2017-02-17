@@ -55,7 +55,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -119,7 +119,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -183,7 +183,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -247,7 +247,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -311,7 +311,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -375,7 +375,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -439,7 +439,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -503,7 +503,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
@@ -567,7 +567,7 @@ mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
-xmltodict
+xmltodict==0.10.2
 python-twitter
 django-cachalot
 changelogs==0.6.1
