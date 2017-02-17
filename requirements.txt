@@ -18,7 +18,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -82,7 +82,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -146,7 +146,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -210,7 +210,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -274,7 +274,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -338,7 +338,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -402,7 +402,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -466,7 +466,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
@@ -530,7 +530,7 @@ django-model-utils==2.5.2
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.28.0
+django-allauth==0.30.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.6.2
