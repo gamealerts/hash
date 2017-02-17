@@ -1,4 +1,4 @@
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -62,7 +62,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -126,7 +126,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -190,7 +190,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -254,7 +254,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -318,7 +318,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -382,7 +382,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -446,7 +446,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
@@ -510,7 +510,7 @@ changelogs==0.6.1
 boto3
 markdown
 
-requests==2.8.1
+requests==2.12.3
 # Bleeding edge Django
 django==1.9.11 # pyup: >=1.9,<1.10
 
