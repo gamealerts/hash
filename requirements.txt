@@ -52,7 +52,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -116,7 +116,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -180,7 +180,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -244,7 +244,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -308,7 +308,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -372,7 +372,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -436,7 +436,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -500,7 +500,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
@@ -564,7 +564,7 @@ django-pgcrypto==1.3
 django-test-plus==1.0.15
 factory-boy==2.7.0
 mailchimp==2.0.9
-django-loginas==0.2.2
+django-loginas==0.3.0
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
