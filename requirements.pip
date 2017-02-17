@@ -40,7 +40,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -104,7 +104,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -168,7 +168,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -232,7 +232,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -296,7 +296,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -360,7 +360,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -424,7 +424,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -488,7 +488,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
@@ -552,7 +552,7 @@ PyJWT==1.4.2
 raven==5.11.1
 pygithub==1.32
 # python 3 compatible farbric port
-setuptools==26.1.1
+setuptools==30.3.0
 requests-mock==1.0.0
 django-extensions==1.7.4
 lxml==3.6.3
