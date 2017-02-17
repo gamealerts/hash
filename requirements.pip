@@ -60,4 +60,4 @@ python-twitter
 django-cachalot
 changelogs==0.6.1
 boto3
-markdown
+markdown==2.6.7
