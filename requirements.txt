@@ -37,7 +37,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -101,7 +101,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -165,7 +165,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -229,7 +229,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -293,7 +293,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -357,7 +357,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -421,7 +421,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -485,7 +485,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
@@ -549,7 +549,7 @@ PyJWT==1.4.2
 # Your custom requirements go here
 # Raven is the Sentry client
 # --------------------------
-raven==5.11.1
+raven==5.32.0
 pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
