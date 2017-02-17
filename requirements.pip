@@ -57,7 +57,7 @@ pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
 python-twitter
-django-cachalot
+django-cachalot==1.4.1
 changelogs==0.6.1
 boto3
 markdown
