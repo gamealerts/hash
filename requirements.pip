@@ -49,7 +49,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -113,7 +113,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -177,7 +177,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -241,7 +241,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -305,7 +305,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -369,7 +369,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -433,7 +433,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -497,7 +497,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
@@ -561,7 +561,7 @@ celery_once==0.1.4
 flower==0.9.1
 # pycrypto
 django-pgcrypto==1.3
-django-test-plus==1.0.15
+django-test-plus==1.0.16
 factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
