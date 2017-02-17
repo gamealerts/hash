@@ -24,7 +24,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -88,7 +88,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -152,7 +152,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -216,7 +216,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -280,7 +280,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -344,7 +344,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -408,7 +408,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -472,7 +472,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
@@ -536,7 +536,7 @@ django-allauth==0.28.0
 psycopg2==2.6.2
 
 # Time zones support
-pytz==2016.6.1
+pytz==2016.10
 
 # Redis support
 django-redis==4.4.4
