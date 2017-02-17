@@ -14,7 +14,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -78,7 +78,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -142,7 +142,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -206,7 +206,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -270,7 +270,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -334,7 +334,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -398,7 +398,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -462,7 +462,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -526,7 +526,7 @@ django-crispy-forms==1.6.0
 django-floppyforms==1.7.0
 
 # Models
-django-model-utils==2.5.2
+django-model-utils==2.6
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
