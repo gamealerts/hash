@@ -3,7 +3,7 @@ requests==2.8.1
 django==1.9.11 # pyup: >=1.9,<1.10
 
 # Configuration
-django-environ==0.4.0
+django-environ==0.4.1
 django-secure==1.0.1
 
 unicode-slugify==0.1.3
