@@ -56,7 +56,7 @@ django-loginas==0.2.2
 pyyaml==3.12
 mkdocs==0.15.3
 xmltodict
-python-twitter
+python-twitter==3.2
 django-cachalot
 changelogs==0.6.1
 boto3
