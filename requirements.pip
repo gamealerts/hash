@@ -42,7 +42,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -106,7 +106,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -170,7 +170,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -234,7 +234,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -298,7 +298,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -362,7 +362,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -426,7 +426,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -490,7 +490,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
@@ -554,7 +554,7 @@ pygithub==1.32
 # python 3 compatible farbric port
 setuptools==26.1.1
 requests-mock==1.0.0
-django-extensions==1.7.4
+django-extensions==1.7.6
 lxml==3.6.3
 python-dateutil==2.5.3
 celery_once==0.1.4
