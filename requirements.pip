@@ -27,7 +27,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -91,7 +91,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -155,7 +155,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -219,7 +219,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -283,7 +283,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -347,7 +347,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -411,7 +411,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -475,7 +475,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
@@ -539,7 +539,7 @@ psycopg2==2.6.2
 pytz==2016.6.1
 
 # Redis support
-django-redis==4.4.4
+django-redis==4.6.0
 redis>=2.10.0
 
 celery==3.1.23
