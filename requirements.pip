@@ -54,7 +54,7 @@ factory-boy==2.7.0
 mailchimp==2.0.9
 django-loginas==0.2.2
 pyyaml==3.12
-mkdocs==0.15.3
+mkdocs==0.16.0
 xmltodict
 python-twitter
 django-cachalot
